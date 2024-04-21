@@ -1,2 +1,2 @@
-# PR_Restorent
+# PR_Restaurant
 Providing Delicious Food
